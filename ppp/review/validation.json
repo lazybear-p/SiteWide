@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-07",
+  "passed": [
+    "Self-contained preview renders with all illustrations and no external network requests",
+    "Collection filters show the correct sample materials and festive selection",
+    "Search supports material matches, no-result feedback and Escape dismissal",
+    "Ready-stock example adds the chosen quantity; bag subtotal and removal are correct",
+    "Supplier-confirmation example opens enquiry information and cannot enter the bag",
+    "Appointment form rejects missing/invalid details and shows a local demonstration without retaining entries",
+    "Cancelling an appointment demonstration clears entered details",
+    "Homepage and product page fit 320, 390, 768 and 1440 px viewports without horizontal overflow",
+    "Mobile navigation, keyboard modal focus and Escape dismissal work",
+    "Editable multi-file source also renders all sample products and assets",
+    "Self-contained HTML renders and filters with browser network access disabled",
+    "Printable founder PDF exported from the current plan, research, decisions and budget",
+    "No JavaScript page errors during the tested journeys"
+  ],
+  "javascript_errors": []
+}

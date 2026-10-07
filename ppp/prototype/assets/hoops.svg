@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" width="600" height="750" role="img"><defs>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2=".8"><stop stop-color="#6c481f"/><stop offset=".18" stop-color="#d4af68"/><stop offset=".36" stop-color="#fff0ba"/><stop offset=".5" stop-color="#b38b45"/><stop offset=".73" stop-color="#f0d791"/><stop offset=".9" stop-color="#a17531"/><stop offset="1" stop-color="#60431f"/></linearGradient>
+<linearGradient id="goldLight" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#9d7436"/><stop offset=".4" stop-color="#f3d893"/><stop offset=".65" stop-color="#c6a05b"/><stop offset="1" stop-color="#865920"/></linearGradient>
+<radialGradient id="paper"><stop stop-color="#eee5d5"/><stop offset="1" stop-color="#cfc0aa"/></radialGradient>
+<linearGradient id="stone" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#e3d8c2"/><stop offset=".65" stop-color="#bcad93"/><stop offset="1" stop-color="#a9987d"/></linearGradient>
+<linearGradient id="shadowPlane" x1="0" y1="0" x2="1" y2=".4"><stop stop-color="#65543e" stop-opacity=".17"/><stop offset="1" stop-color="#65543e" stop-opacity="0"/></linearGradient>
+<filter id="shadow" x="-60%" y="-60%" width="240%" height="250%"><feDropShadow dx="12" dy="21" stdDeviation="10" flood-color="#695036" flood-opacity=".28"/></filter>
+<filter id="soft"><feGaussianBlur stdDeviation="13"/></filter>
+</defs><rect width="600" height="750" fill="#e7dfd2"/><path d="M0 565 600 365V750H0Z" fill="#d4c7b2"/><ellipse cx="313" cy="516" rx="140" ry="27" fill="#7e684b" opacity=".09" filter="url(#soft)"/><g filter="url(#shadow)">
+<g transform="translate(231 363) rotate(-27)"><ellipse rx="84" ry="116" fill="none" stroke="url(#gold)" stroke-width="29"/><ellipse cx="-4" cy="-3" rx="76" ry="111" fill="none" stroke="#f9e6b0" stroke-width="2.3" opacity=".6"/><path d="M-16-111 12-114" stroke="#87642e" stroke-width="4"/><path d="M-14-114 15-117" stroke="#ecd091" stroke-width="2"/></g>
+<g transform="translate(366 405) rotate(25)"><ellipse rx="73" ry="104" fill="none" stroke="url(#gold)" stroke-width="27"/><ellipse cx="-4" cy="-3" rx="66" ry="99" fill="none" stroke="#fce6a9" stroke-width="2" opacity=".6"/><path d="M-12-102 12-104" stroke="#816032" stroke-width="4"/></g></g></svg>

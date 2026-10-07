@@ -1,0 +1,10 @@
+Workstream,Low_INR,High_INR,Status,Scope
+Brand identity essentials,20000,45000,Planning estimate,Logo direction and core visual system
+Website design and theme implementation,60000,130000,Planning estimate,Tailored commerce theme; approximately 30 designs assumed
+Photography and short videos,30000,70000,Planning estimate,Actual deliverables and shoot scope require quote
+Copy catalogue and translation review,15000,30000,Planning estimate,English first; limited reviewed translation scope
+Operational integration and launch testing,20000,45000,Planning estimate,Avoid double counting if agency includes this in build quote
+Subtotal,=SUM(B2:B6),=SUM(C2:C6),Formula,Excludes taxes inventory advertising fulfilment and transaction costs
+Contingency,=B7*0.15,=C7*0.15,Formula,15 percent planning contingency
+Total,=B7+B8,=C7+C8,Formula,External commissioning allowance; not a charge from the assistant
+Monthly software reserve,3000,10000,Separate monthly estimate,Not included in one-time total; actual platform and apps determine cost

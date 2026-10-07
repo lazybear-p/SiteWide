@@ -1,0 +1,14 @@
+Metric,Value,Notes
+Eligible monthly transaction volume INR,500000,Editable scenario; equal fee base assumed
+Shopify Basic annual-billing monthly equivalent INR,1499,Official India price checked 2026-10-07; annual commitment
+Shopify Grow annual-billing monthly equivalent INR,5599,Official India price checked 2026-10-07; annual commitment
+Basic third-party provider fee fraction,0.02,Official published headline rate
+Grow third-party provider fee fraction,0.01,Official published headline rate
+Gateway fee fraction,0.02,Razorpay standard headline; verify merchant agreement and applicable taxes
+Basic monthly cost before applicable taxes,=B3+B2*(B5+B7),Subscription plus both transaction charges; excludes apps and other charges
+Grow monthly cost before applicable taxes,=B4+B2*(B6+B7),Same fee-base assumption
+Savings with Grow before applicable taxes,=B8-B9,Positive means Grow cheaper in this simplified scenario
+Annual-billing monthly transaction break-even,=(B4-B3)/(B5-B6),Excludes taxes and feature differences
+Basic monthly-billing subscription INR,1994,Official price checked 2026-10-07
+Grow monthly-billing subscription INR,7447,Official price checked 2026-10-07
+Monthly-billing transaction break-even,=(B13-B12)/(B5-B6),Same assumptions

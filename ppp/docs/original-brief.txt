@@ -1,0 +1,483 @@
+Act as an India-focused jewellery market researcher, D2C business strategist, brand-positioning consultant, ecommerce operator and retail financial planner.
+
+I am developing an online jewellery brand with three product segments:
+
+1. Curated gold-plated silver jewellery as the principal online category.
+2. Curated “1 gram gold” jewellery for customers seeking premium-looking, affordable pieces.
+3. Higher-value solid-gold jewellery available through appointment-based consultations at our store or through supplier-assisted home visits. Home visits will be offered only to verified customers.
+
+Sales channels:
+
+- Brand website
+- Instagram
+- WhatsApp
+- Jewellery and lifestyle exhibitions
+- Appointment-based store visits
+- Verified-customer home consultations for high-value products
+
+Core business idea:
+
+The brand should differentiate itself through a deliberately limited, well-curated collection rather than a very large catalogue. Each product should meet defined standards for design, quality, finish and value. The initial SKU range will be restricted and expanded gradually using sales data, customer requests, repeat-purchase behaviour and observed demand.
+
+Existing advantage:
+
+We have a parent jewellery retail business that has operated locally for several decades. It already has established supplier relationships, sourcing capabilities and knowledge of the jewellery supply chain. The parent brand has strong recognition within its town but limited marketing value outside the region. The new brand should reach customers across India, particularly in major metropolitan markets.
+
+Important terminology:
+
+Do not assume what I mean by “1 gram jewellery.” Ask whether this refers to imitation jewellery marketed in India as one-gram gold jewellery, jewellery containing approximately one gram of real gold, or another category.
+
+PHASE 1 — CLARIFICATION
+
+Before conducting the analysis, ask me a maximum of 15 high-impact questions. Group them under:
+
+- Products and pricing
+- Target customers and geography
+- Parent-brand relationship
+- Sourcing and margins
+- Brand personality
+- Sales and fulfilment
+- Capital, team and launch timeline
+
+Ask only questions whose answers would materially change the business model, positioning, financial assumptions or launch plan. Where useful, provide two to four answer options so I can respond efficiently.
+
+Do not begin the full analysis until I have answered the questions. If I cannot answer something, mark it as an assumption requiring validation.
+
+PHASE 2 — RESEARCH AND BUSINESS PLAN
+
+After receiving my answers, conduct current web research and produce a detailed but decision-oriented report.
+
+1. Executive recommendation
+
+Begin with:
+
+- Your assessment of whether this concept has a defensible opportunity.
+- The strongest version of the business model.
+- The primary customer segment.
+- The recommended hero product category.
+- The most important positioning decision.
+- The three largest risks.
+- A concise explanation of what the brand should and should not try to be.
+
+Give a direct recommendation rather than presenting every option as equally valid.
+
+2. Market and customer analysis
+
+Analyse the Indian market for:
+
+- Gold-plated sterling silver jewellery
+- One-gram or premium imitation jewellery, based on my clarification
+- Appointment-led solid-gold jewellery
+- Curated online jewellery retail
+- Jewellery discovery through Instagram, WhatsApp and exhibitions
+
+Identify:
+
+- Relevant market trends
+- Purchase occasions
+- Customer pain points
+- Trust barriers
+- Typical buying criteria
+- Repeat-purchase potential
+- Metro versus Tier 1/Tier 2 demand differences
+- Price sensitivity
+- Gifting opportunities
+- Factors that encourage or prevent online jewellery purchases
+
+Do not fabricate market sizes. If reliable figures are unavailable, state this and use clearly labelled proxies.
+
+3. Reference-brand research
+
+Find at least 12 relevant brands, divided into:
+
+- Direct competitors
+- Adjacent Indian jewellery brands
+- International niche or curated jewellery brands
+- Brands with useful appointment, concierge, drop, limited-collection or community-led models
+
+For each brand, provide a comparison table containing:
+
+- Brand and website
+- Geography
+- Primary audience
+- Product category
+- Approximate price positioning
+- Brand promise
+- Collection or SKU strategy
+- Visual identity
+- Website and Instagram approach
+- Promotions or customer-acquisition methods
+- Trust signals
+- What appears effective
+- What should not be copied
+- Specific lesson for this business
+
+Prioritise genuinely niche or curated businesses rather than listing only large corporate jewellery chains. Include direct links to official websites and relevant social profiles.
+
+4. Competitive positioning map
+
+Map competitors across useful dimensions such as:
+
+- Mass catalogue versus tightly curated collection
+- Affordable versus premium
+- Trend-led versus timeless
+- Transactional ecommerce versus assisted/concierge purchase
+- Fashion jewellery versus precious jewellery
+
+Identify an unoccupied or underdeveloped position that this brand could credibly own.
+
+5. Brand architecture
+
+Evaluate whether the three product categories should operate:
+
+- Under one brand
+- As separate collections under one master brand
+- As distinct sub-brands
+- With the parent jewellery store used as an endorsement or trust mark
+
+Consider whether selling affordable plated jewellery and high-value solid gold under the same consumer brand could create confusion or weaken trust.
+
+Recommend one architecture and explain:
+
+- Naming hierarchy
+- How each category should appear on the website
+- Whether separate Instagram pages are necessary
+- How the parent brand should be introduced
+- How to communicate legacy without making the new brand appear old-fashioned or geographically limited
+
+6. Positioning strategy
+
+Create:
+
+- A clear positioning statement
+- Primary and secondary customer personas
+- Customer problem being solved
+- Brand promise
+- Reasons to believe
+- Differentiation pillars
+- Tone of voice
+- Suggested tagline directions
+- A one-sentence Instagram bio
+- A concise website homepage message
+
+The positioning must be specific enough to guide product selection, photography, packaging, marketing and service design.
+
+7. Product and collection strategy
+
+Recommend:
+
+- Launch assortment
+- Number of initial SKUs by category
+- Hero categories
+- Entry, core and premium price bands
+- Evergreen versus limited-edition allocation
+- Collection-drop frequency
+- Product-selection criteria
+- Quality-control requirements
+- Packaging tiers
+- Gifting options
+- Personalisation opportunities
+- How customer requests should influence future sourcing
+- Rules for discontinuing or replenishing products
+
+Explain how a curated assortment can remain commercially viable without becoming a generic catalogue.
+
+8. Visual identity and aesthetic direction
+
+Recommend two or three distinct creative territories. For each, specify:
+
+- Mood
+- Colour palette
+- Typography direction
+- Photography style
+- Model styling
+- Backgrounds and props
+- Packaging direction
+- Website design
+- Instagram-grid treatment
+- Exhibition-stall design
+- WhatsApp catalogue presentation
+- Suitability for each product segment
+- Advantages and limitations
+
+Provide links to real brands, websites, campaigns, packaging or retail environments that visually demonstrate each direction. Explain precisely what should be learned from every reference. Do not recommend copying another brand’s protected identity.
+
+Select one preferred direction and explain why it best supports the positioning.
+
+9. Marketing strategy
+
+Develop a channel-specific strategy for:
+
+Website:
+- Acquisition and conversion
+- Product-page structure
+- Trust elements
+- Reviews
+- Care information
+- Returns and warranties
+- Appointment booking
+- Lead capture
+
+Instagram:
+- Content pillars
+- Reels
+- Styling and education
+- Founder or curator content
+- Product drops
+- Community building
+- Influencer collaboration
+- Paid advertising
+- Posting cadence
+
+WhatsApp:
+- Catalogue structure
+- Opt-in acquisition
+- Launch broadcasts
+- Personal shopping
+- Abandoned-cart recovery
+- Repeat-purchase campaigns
+- Appointment management
+- Avoiding spam
+
+Exhibitions:
+- Selecting suitable expos
+- Stall experience
+- Product assortment
+- Lead capture
+- On-site offers
+- Post-exhibition follow-up
+- Measuring profitability
+
+Local parent store:
+- Cross-selling
+- Customer migration
+- Trust endorsement
+- Launch events
+- Maintaining separation between the old and new brand identities
+
+10. Launch campaigns and promotions
+
+Recommend promotions that protect brand value and do not create permanent dependence on discounts.
+
+Include:
+
+- Pre-launch campaign
+- Founding-customer programme
+- First collection launch
+- Limited-drop strategy
+- Referral programme
+- Bundles
+- Gifting campaigns
+- Seasonal and wedding-calendar campaigns
+- Exhibition-specific offers
+- Repeat-customer benefits
+- Appointment incentives for solid-gold customers
+
+For every promotion, state:
+
+- Objective
+- Target customer
+- Offer structure
+- Channel
+- Timing
+- Expected customer behaviour
+- Metric used to judge success
+
+11. Trust, service and high-value appointments
+
+Design a safe process for:
+
+- Customer verification
+- Appointment qualification
+- Store consultations
+- Supplier or representative home visits
+- Product custody
+- Insurance
+- Payment collection
+- Invoicing
+- Customer privacy
+- Staff or supplier identification
+- Avoiding fraud and personal-safety risks
+- Returns, repairs and after-sales service
+
+Clearly separate standard industry practice, legal requirements and your recommendations. Flag anything requiring advice from an Indian lawyer, chartered accountant, insurer or security professional.
+
+12. Ecommerce and operational model
+
+Recommend:
+
+- Suitable ecommerce technology
+- Inventory approach
+- SKU and batch tracking
+- Hallmarking or material-disclosure requirements
+- Product photography workflow
+- Order management
+- Shipping partners
+- Tamper-proof packaging
+- Shipping insurance
+- COD policy
+- Payment gateways
+- Returns and exchanges
+- Customer support
+- CRM
+- WhatsApp integration
+- Analytics
+- Fraud prevention
+
+Address the operational differences between plated silver, one-gram jewellery and solid gold.
+
+13. Business model and unit economics
+
+Build a practical financial framework covering:
+
+- Product cost
+- Gross margin
+- Packaging
+- Payment-gateway fees
+- Shipping and insurance
+- Returns
+- Discounts
+- Marketplace or exhibition expenses
+- Influencer commissions
+- Paid acquisition
+- Staff
+- Technology
+- Content production
+- Taxes and compliance
+- Contribution margin
+- Break-even point
+- Working-capital requirements
+
+Do not invent figures silently. Use my figures where available. Where figures are missing, show low, base and high scenarios and clearly label every assumption.
+
+Include editable formulas that I can place in a spreadsheet.
+
+14. Twelve-month business plan
+
+Create a month-by-month plan covering:
+
+- Research and validation
+- Brand development
+- Vendor and product selection
+- Website setup
+- Content production
+- Pre-launch
+- Launch
+- Exhibitions
+- Paid marketing
+- Influencer testing
+- Customer feedback
+- Collection expansion
+- Solid-gold appointment service
+- Hiring
+- Operational improvements
+
+For every phase, specify:
+
+- Objective
+- Actions
+- Owner or required role
+- Estimated cost category
+- KPI
+- Decision gate
+- Conditions required before progressing
+
+Separate “must have at launch” from “add after validation.”
+
+15. Testing and validation plan
+
+Design low-cost tests for the main assumptions, including:
+
+- Demand for curated limited collections
+- Acceptable price points
+- Best-performing designs
+- Effectiveness of parent-brand endorsement
+- Customer willingness to buy from a new online brand
+- Demand for solid-gold appointments
+- Instagram versus exhibition customer acquisition
+- Repeat-purchase potential
+
+For each test, provide the hypothesis, method, sample size or duration, success threshold and resulting decision.
+
+16. KPI dashboard
+
+Define the most important weekly and monthly metrics, including:
+
+- Revenue
+- Orders
+- Average order value
+- Gross margin
+- Contribution margin
+- Conversion rate
+- Customer-acquisition cost
+- Return rate
+- Repeat-purchase rate
+- Inventory turn
+- Sell-through by SKU
+- WhatsApp opt-ins
+- Appointment leads
+- Appointment conversion
+- Exhibition profitability
+
+Explain which metrics matter at launch and which become useful only after sufficient sales volume.
+
+17. Risks and safeguards
+
+Create a risk register covering:
+
+- Brand confusion
+- Quality inconsistency
+- Tarnishing or plating complaints
+- Supplier dependence
+- Slow-moving inventory
+- Counterfeiting
+- Customer fraud
+- Shipping loss
+- High return rates
+- Discount dependence
+- Unprofitable expos
+- Weak differentiation
+- Regulatory or disclosure failures
+- Reputation risk from home visits
+
+Rank each risk by likelihood and impact, then recommend mitigation.
+
+18. Final action plan
+
+End with:
+
+- The recommended business model in one page
+- The first 10 actions I should take
+- A 30-day validation plan
+- A 90-day launch plan
+- A proposed launch budget divided into essential and optional spending
+- Decisions that must be made immediately
+- Decisions that can wait until customer data is available
+- A list of assumptions still requiring validation
+
+RESEARCH STANDARDS
+
+- Use current information available at the time of research.
+- Prioritise official brand websites, government sources, industry bodies, recognised market reports and credible business publications.
+- Cite every time-sensitive or factual claim with a direct link.
+- Do not use search-result pages as citations.
+- Distinguish verified facts, estimates, assumptions and strategic recommendations.
+- Never invent revenue, traffic, follower counts, market share, product prices or funding information.
+- State “uncertain — needs source” when a claim cannot be verified.
+- Note the access date for prices, policies and regulations.
+- Focus primarily on India, while using international examples only when they provide a transferable strategic lesson.
+- Explain conflicts between sources.
+- Avoid generic advice that could apply to any ecommerce brand.
+
+OUTPUT FORMAT
+
+Use:
+
+- A concise executive summary
+- Clearly labelled sections
+- Tables for competitor comparisons, pricing, unit economics, timelines and KPIs
+- Direct recommendations after each major analysis
+- Source links beside the claims they support
+- A final prioritised action checklist
+
+Write for a founder who needs to make operational and investment decisions, not for an academic audience.
